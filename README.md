@@ -1,1 +1,1 @@
-
+Introducing "Profolio" – a groundbreaking AI-driven system poised to transform the landscape of project portfolio management. Profolio seamlessly automates the process of project analysis, offering in-depth evaluations of user resumes and expertly predicting field recommendations based on their unique skill set. This innovative tool is engineered to provide users with insightful career insights and tailor-made guidance, offering a data-driven approach to optimize their project choices and career prospects.
